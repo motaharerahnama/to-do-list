@@ -1,4 +1,3 @@
-# tasks/views.py
 
 from django.views import View
 from django.shortcuts import render, redirect
